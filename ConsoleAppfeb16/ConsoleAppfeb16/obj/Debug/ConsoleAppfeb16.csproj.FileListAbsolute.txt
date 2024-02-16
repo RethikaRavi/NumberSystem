@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleAppfeb16\ConsoleAppfeb16\bin\Debug\ConsoleAppfeb16.exe.config
+C:\Users\Admin\source\repos\ConsoleAppfeb16\ConsoleAppfeb16\bin\Debug\ConsoleAppfeb16.exe
+C:\Users\Admin\source\repos\ConsoleAppfeb16\ConsoleAppfeb16\bin\Debug\ConsoleAppfeb16.pdb
+C:\Users\Admin\source\repos\ConsoleAppfeb16\ConsoleAppfeb16\obj\Debug\ConsoleAppfeb16.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleAppfeb16\ConsoleAppfeb16\obj\Debug\ConsoleAppfeb16.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppfeb16\ConsoleAppfeb16\obj\Debug\ConsoleAppfeb16.exe
+C:\Users\Admin\source\repos\ConsoleAppfeb16\ConsoleAppfeb16\obj\Debug\ConsoleAppfeb16.pdb
